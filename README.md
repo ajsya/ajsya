@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ajsya's Github Stats](https://github-readme-stats.vercel.app/api?username=ajsya&count_private=true&show_icons=true&bg_color=101010&text_color=35A1EA&title_color=35A1EA)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ajsya&count_private=true&show_icons=true&bg_color=101010&text_color=35A1EA&title_color=35A1EA)
+<br />![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajsya&layout=compact)
 
 ## Discord
 SharkBaitBilly#5270
