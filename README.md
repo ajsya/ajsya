@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Badge](https://shields.io/endpoint?url=https://scratch-follower-count-badge.glitch.me/ajsya)
+
 <!--
 **ajsya/ajsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
