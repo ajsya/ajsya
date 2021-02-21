@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajsya)](https://github.com/anuraghazra/github-readme-stats)
+![ajsya's Github Stats](https://github-readme-stats.vercel.app/api?username=ajsya&count_private=true&show_icons=true&bg_color=101010&text_color=35A1EA&title_color=35A1EA)
 
 SharkBaitBilly#5270
