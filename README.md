@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Scratch Followers Badge (Reload)](https://shields.io/endpoint?url=https://scratch-follower-count-badge.glitch.me/ajsya)
+![Scratch Followers Badge (Reload)](https://shields.io/endpoint?url=https://scratch-follower-count-badge.glitch.me/ajsya)![Discord Account](https://img.shields.io/endpoint?url=https://ajsya.github.io/ajsya/discord.md?color=grey&label=%20&logo=Discord)
 
 <!--
 **ajsya/ajsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
