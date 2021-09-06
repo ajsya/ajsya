@@ -1,24 +1,17 @@
-### Hi there 👋
+### Hey there 👋
+#### I'm ajsya
 
-![Scratch Followers Badge (Reload)](https://shields.io/endpoint?url=https://scratch-follower-count-badge.glitch.me/ajsya)![Discord Account](https://img.shields.io/endpoint?url=https://ajsya.github.io/ajsya/discord.md?color=grey&label=%20&logo=Discord)
-
-<!--
-**ajsya/ajsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 **I'm working on...** The Poggerchair Minecraft Server
+- 🌱 **I'm currently learning...** Python and Javascript
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about ... -->
+- 📫 **How to reach me:** 
+- - **Discord:** SharkBaitBilly#5270
+- - **Scratch**: [ajsya](https://scratch.mit.edu/users/ajsya)
+- - **Glitch**: [ajsya](https://glitch.com/@ajsya)
+- 😄 **Pronouns: ...** He/him.
+- ⚡ **Fun fact:** ... I'm a human. 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ajsya&count_private=true&show_icons=true)
 <br />![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajsya&layout=compact)
-
-## Discord
-SharkBaitBilly#5270
