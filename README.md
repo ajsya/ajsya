@@ -14,5 +14,3 @@
 ### Currently working on
 - Learning Java to understand the fundamentals of CS
 - Revisiting Python from time to time
-
-test
