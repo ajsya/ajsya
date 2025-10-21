@@ -12,5 +12,5 @@
 - https://github.com/ajsya/ScratchVerifier-DiscordBot
 
 ### Currently working on
-- https://github.com/ajsya/ScratchMCServerDirectory
-- PeachOS 2.0
+- Learning Java
+- Revisiting Python from time to time
