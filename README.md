@@ -12,5 +12,4 @@
 - https://github.com/ajsya/ScratchVerifier-DiscordBot
 
 ### Currently working on
-- Learning Java to understand the fundamentals of CS
-- Revisiting Python from time to time
+- CS50
