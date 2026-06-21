@@ -13,4 +13,4 @@
 - Hopefully building real stuff soon!
 
 ### Contact
-[![Discord](https://img.shields.io/badge/sharkbaitbilly%20%20-gray?logo=discord&style=for-the-badge)(https://discord.com/app)] [![Scratch](https://img.shields.io/badge/Scratch-gray?logo=scratch&style=for-the-badge)(https://scratch.mit.edu/users/ajsya)]
+[![Discord](https://img.shields.io/badge/sharkbaitbilly%20%20-gray?logo=discord&style=for-the-badge)](https://discord.com/app) [![Scratch](https://img.shields.io/badge/Scratch-gray?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/ajsya)
